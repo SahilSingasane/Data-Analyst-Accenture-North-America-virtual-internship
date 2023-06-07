@@ -18,5 +18,7 @@ Prepare data visualizations on Microsoft Power BI and carry out storytelling wit
 Prepare a presentation to the client using Microsoft PowerPoints and sharing insights gotten from the data.
 Tools used to carry out this pproject include:
 
-# Microsoft MS Excel: This was used to clean the datasets and generate key insights into the datasets.
-# Microsoft PowerPoint and MS Excel: This used to carry out visualization on the insights from my analysis on MS Excel.
+# Microsoft MS Excel: 
+This was used to clean the datasets and generate key insights into the datasets.
+# Microsoft PowerPoint and MS Excel: 
+This used to carry out visualization on the insights from my analysis on MS Excel.
